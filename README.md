@@ -189,11 +189,23 @@ ai-foundations-lab/
 
 ## 📚 Learning Resources
 
-This project is inspired by and follows the academic rigor of:
+This project is inspired by and follows the academic rigor of graduate-level computer science courses:
 
-- **Stanford CS229**: Machine Learning
-- **Stanford CS231n**: CNNs for Visual Recognition
-- **MIT 6.S191**: Introduction to Deep Learning
+**Stanford University:**
+
+- **CS229: Machine Learning** - Supervised learning, unsupervised learning, learning theory
+- **CS230: Deep Learning** - Neural networks, CNNs, RNNs, optimization techniques
+- **CS224N: Natural Language Processing with Deep Learning** - Word embeddings, transformers, attention mechanisms
+- **CS234: Reinforcement Learning** - MDPs, Q-learning, policy gradients, deep RL
+- **CS221: Artificial Intelligence: Principles and Techniques** - Search, reasoning, learning
+- **CS336: Language Models** - Transformer architecture, LLM foundations
+
+**Additional Resources:**
+
+- MIT 6.S191: Introduction to Deep Learning
+- Research papers and textbooks by leading AI researchers
+
+_Note: This is a self-directed learning project using publicly available course materials. No formal enrollment or academic credit._
 
 ---
 
@@ -212,5 +224,5 @@ This project is inspired by and follows the academic rigor of:
 ---
 
 <div align="center">
-Developed with ❤️ by Davi Bonetto
+Developed by Davi Bonetto
 </div>
