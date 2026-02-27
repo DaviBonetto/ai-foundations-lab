@@ -17,7 +17,7 @@
 
 </div>
 
-## 📌 Table of Contents
+## 📌 Table of Content
 
 - [📖 About](#-about)
 - [✅ Key Features](#-key-features)
